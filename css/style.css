@@ -1,0 +1,26 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#titulo {
+  display: flex;
+  margin-left: 161px;
+  margin-top: 33px;
+}
+
+#seguidores {
+  display: flex;
+  margin-top: 41px;
+  margin-left: -331px;
+}
+
+#cards {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+
+#face {
+  display: flex;
+}/*# sourceMappingURL=style.css.map */

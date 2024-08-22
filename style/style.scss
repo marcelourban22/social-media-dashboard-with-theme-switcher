@@ -21,25 +21,23 @@
     
 }
 #card1{
+    background-color: tomato;
     display: flex;
-    justify-content: center;
+    align-items: center;
     flex-direction: column;
-    margin-left: 270px;
-    margin-top: 75px;
+    margin-left: 165px;
+    margin-top: 43px;
+    padding-left: 90px;
+    padding-right: 100px;
+    padding-top: 80px;
+    padding-bottom: 20px;
+    border-radius: 6px;
 }
-#imgface{
-    width: 100px;
-    height: 100px;
-    margin-left: -20px
-}
-#arroba{
+#card1items{
     display: flex;
-    margin-left: 8px;
-    margin-top: -99px;
 }
 #1987{
     display: flex;
+    margin: 100px;
 }
-#followers{
-    display: flex;
-}
+

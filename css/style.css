@@ -21,6 +21,22 @@
   flex-direction: row;
 }
 
-#face {
+#card1 {
   display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-left: 270px;
+  margin-top: 75px;
+}
+
+#imgface {
+  width: 100px;
+  height: 100px;
+  margin-left: -20px;
+}
+
+#arroba {
+  display: flex;
+  margin-left: 8px;
+  margin-top: -99px;
 }/*# sourceMappingURL=style.css.map */

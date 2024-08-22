@@ -4,7 +4,7 @@
 }
 
 
-#titulo{
+#titulo{    
     display: flex;
     margin-left: 161px;
     margin-top: 33px;
@@ -18,19 +18,28 @@
     display: flex;
     align-items: center;
     flex-direction: row;
+    
 }
 #card1{
     display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 270px;
+    margin-top: 75px;
 }
-#face{
+#imgface{
+    width: 100px;
+    height: 100px;
+    margin-left: -20px
+}
+#arroba{
     display: flex;
+    margin-left: 8px;
+    margin-top: -99px;
 }
 #1987{
     display: flex;
 }
-#seguidores1{
-    display: flex;
-}
-#diascard1{
+#followers{
     display: flex;
 }
